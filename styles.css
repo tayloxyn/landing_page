@@ -20,6 +20,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
 }
 .header-main-container {
     background-color: #152937;
